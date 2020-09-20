@@ -1,2 +1,5 @@
 # private environment variables api key and api URL
 .env
+
+#idle 
+.idea/
